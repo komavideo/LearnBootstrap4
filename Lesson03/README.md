@@ -24,7 +24,7 @@ http://getbootstrap.com/docs/4.0/utilities/colors/
 
 ## 课程文件
 
-https://gitee.com/komavideo/LearnBootstrap4
+https://github.com/komavideo/LearnBootstrap4
 
 ## 小马视频频道
 
