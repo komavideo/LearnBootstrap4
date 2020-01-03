@@ -58,7 +58,7 @@ Bootstrap4根据客户端显示屏幕的大小，分为以下几个分类：
 
 ## 课程文件
 
-https://gitee.com/komavideo/LearnBootstrap4
+https://github.com/komavideo/LearnBootstrap4
 
 ## 小马视频频道
 
